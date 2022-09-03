@@ -1,5 +1,5 @@
 {
-  "name": "eleventy-garden",
+  "name": "mind-garden",
   "version": "1.0.0",
   "description": "A starter site for building a mind garden in eleventy.",
   "scripts": {
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/binyamin/eleventy-garden.git"
+    "url": "git+https://github.com/headsink/mind-garden-1.git"
   },
   "keywords": [],
-  "author": "Binyamin Aron Green (https://binyam.in/)",
+  "author": "Binyamin Aron Green (https://twitter.com/headsink)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/binyamin/eleventy-garden/issues"
+    "url": "https://github.com/headsink/mind-garden-1/issues"
   },
-  "homepage": "https://github.com/binyamin/eleventy-garden#readme",
+  "homepage": "https://github.com/headsink/mind-garden-1#readme",
   "devDependencies": {
     "@11ty/eleventy": "^1.0.1",
     "markdown-it": "^12.3.2",
