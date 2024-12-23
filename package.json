@@ -19,8 +19,8 @@
   "homepage": "https://github.com/headsink/mind-garden-1#readme",
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1",
-    "markdown-it": "^13.0.1",
-    "markdown-it-attrs": "^4.1.6",
+    "markdown-it": "^13.0.2",
+    "markdown-it-attrs": "^4.3.1",
     "markdown-it-footnote": "^3.0.3",
     "title-case": "^3.0.3"
   }
